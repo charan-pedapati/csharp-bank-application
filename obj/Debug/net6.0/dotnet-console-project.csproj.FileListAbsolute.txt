@@ -1,0 +1,15 @@
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\bin\Debug\net6.0\dotnet-console-project.exe
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\bin\Debug\net6.0\dotnet-console-project.deps.json
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\bin\Debug\net6.0\dotnet-console-project.runtimeconfig.json
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\bin\Debug\net6.0\dotnet-console-project.dll
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\bin\Debug\net6.0\dotnet-console-project.pdb
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\dotnet-console-project.csproj.AssemblyReference.cache
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\dotnet-console-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\dotnet-console-project.AssemblyInfoInputs.cache
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\dotnet-console-project.AssemblyInfo.cs
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\dotnet-console-project.csproj.CoreCompileInputs.cache
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\dotnet-console-project.dll
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\refint\dotnet-console-project.dll
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\dotnet-console-project.pdb
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\dotnet-console-project.genruntimeconfig.cache
+C:\Users\chara\OneDrive\Desktop\dotnet-console-project\obj\Debug\net6.0\ref\dotnet-console-project.dll
