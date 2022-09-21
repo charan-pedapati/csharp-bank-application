@@ -20,7 +20,7 @@ namespace BankApplication
                 Console.WriteLine("----------------------------------");
                 Console.WriteLine("");
                 Console.WriteLine("=> Please enter the operation you want to perform:");
-                Console.WriteLine("   1. Withdrawl\n   2. Balance Check\n   3. Add Money (Deposit)\n   4. Create new Bank Account");
+                Console.WriteLine("   1. Withdrawl\n   2. Balance Check\n   3. Add Money (Deposit)\n   4. Create new Bank Account/n   5. Display all Users(Bank Employee Only)   6. Display all transactions(Needs to be implemented)");
                 Console.WriteLine("Press (y) to exit...");
                 Console.WriteLine("");
                 Console.WriteLine("----------------------------------");
@@ -48,6 +48,11 @@ namespace BankApplication
                         bankAccount.DepositAmount();
                         break;
                     }
+                    // Implement Bank Database Scenario here.
+                    // case "4":
+                    // {
+                    //     BankDatabase
+                    // }
                 }
                 
 
