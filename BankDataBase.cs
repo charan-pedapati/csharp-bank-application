@@ -1,6 +1,6 @@
 class BankDataBase{
     static int index = 0;
-    AccountDetails[] bankAccounts = new AccountDetails[10];
+    public AccountDetails[] bankAccounts = new AccountDetails[10];
     public void AddBankAccountToDataBase(AccountDetails bankAccount)
     {   this.bankAccounts[index] = new AccountDetails();
         this.bankAccounts[index] = bankAccount;
@@ -17,9 +17,11 @@ class BankDataBase{
             int i=0;
             while(this.bankAccounts[i]!= null)
             {
-                Console.WriteLine("Name     :   "+this.bankAccounts[i].userName);
-                Console.WriteLine("Acc No   :   "+this.bankAccounts[i].bankAccountNumber);
-                Console.WriteLine("Balance  :   "+this.bankAccounts[i].bankBalance);
+                Console.WriteLine("-> Name             :   "+this.bankAccounts[i].userName);
+                Console.WriteLine("-> Account Number   :   "+this.bankAccounts[i].bankAccountNumber);
+                Console.WriteLine("-> Current Balance  :   "+this.bankAccounts[i].bankBalance+"/- INR");
+                Console.WriteLine("-> Address          :   "+this.bankAccounts[i].address);
+                Console.WriteLine("-> Mobile           :   "+this.bankAccounts[i].mobile);
                 i+=1;
                 Console.WriteLine("\n");
 
